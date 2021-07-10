@@ -17,3 +17,9 @@ List2=[1,2,3]
 # extend v/s append 
 List1.extend(List2)
 print("Extend :",List1)
+
+
+
+# Output
+# Append : [[1, 2, 3]]
+# Extend : [1, 2, 3]
